@@ -1,4 +1,5 @@
-# Tetris-console-windows
+# Tetris console windows cpp
+
 Simple tetris game on console windows.
 
 # Building game
