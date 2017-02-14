@@ -1,4 +1,4 @@
-# Car-race-console-windows-cpp
+# Car race console windows cpp
 
 Simple car race game on console windows by cpp.
 
