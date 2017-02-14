@@ -1,4 +1,4 @@
-# Snake-console-windows-cpp
+# Snake console windows cpp
 
 Classical snake game on console windows by cpp.
 
